@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/Users/guilhemfourty/Desktop/GitHub/WebsiteGF
+    - export DEPLOYPATH=/home/guilujcz/repositories/WebsiteGF
     - /bin/cp index.html $DEPLOYPATH
